@@ -10,8 +10,14 @@
 - I love exploring AI tools and using them to enhance my skills.
 - How to reach me [divinguedegbegmail.com](divinguedegbegmail.com)
 
+## 🚀 Skills  
+- **Languages** : SQL (PostgreSQL, MySQL), Python (Pandas, NumPy, Matplotlib) 
+- **Tools** : Power BI, Excel, Jupyter Notebook, Google Looker Studio  
+- **Version Control** : Git, GitHub  
+
 ## 📞 Socials
 [Linkedin](https://www.linkedin.com/in/christ-guedegbe-6b3216341/)
+
 
 
 
