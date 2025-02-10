@@ -10,6 +10,11 @@
 - I love exploring AI tools and using them to enhance my skills.
 - How to reach me [divinguedegbegmail.com](divinguedegbegmail.com)
 
+## 📞 Socials
+[Linkedin]([divinguedegbegmail.com](https://www.linkedin.com/in/christ-guedegbe-6b3216341/))
+
+
+
 <!--
 **Christ-GUEDEGBE/Christ-GUEDEGBE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
