@@ -25,7 +25,9 @@ In energy engineering and industrial processes:
 ## 📞 Socials
 
 **Linkedin** : [Linkedin](https://www.linkedin.com/in/christ-guedegbe-6b3216341/)
+
 **Email** : [divinguedegbegmail.com](divinguedegbegmail.com)
+
 **Portfolio** : your-portfolio.com
 
 
