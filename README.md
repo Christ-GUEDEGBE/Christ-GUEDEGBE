@@ -11,7 +11,7 @@
 - How to reach me [divinguedegbegmail.com](divinguedegbegmail.com)
 
 ## 📞 Socials
-[Linkedin]([divinguedegbegmail.com](https://www.linkedin.com/in/christ-guedegbe-6b3216341/))
+[Linkedin](https://www.linkedin.com/in/christ-guedegbe-6b3216341/)
 
 
 
