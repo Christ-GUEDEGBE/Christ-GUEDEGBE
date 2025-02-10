@@ -28,7 +28,7 @@ In energy engineering and industrial processes:
 
 **Email** : [divinguedegbegmail.com](divinguedegbegmail.com)
 
-**Portfolio** : your-portfolio.com
+**Portfolio** : my-portfolio.com
 
 
 
