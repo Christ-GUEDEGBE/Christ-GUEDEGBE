@@ -1,4 +1,14 @@
-## Hi there 👋
+
+
+👋 Hi, i'm Christ GUEDEGBE.
+
+## 🙋‍♀️ About Me
+- 📊 I'm an aspiring Data Analyst | Passionate about Data & AI | Student in energy engineering and industrial processes.
+
+🔹 I’m currently learning data analysis and working on projects in SQL, Python, and Power BI.
+🔹 My background is in energy engineering, but I’m transitioning into data science.
+🔹 I love exploring AI tools and using them to enhance my skills.
+🔹 I'm currently a student, and preparing for my graduating defense.
 
 <!--
 **Christ-GUEDEGBE/Christ-GUEDEGBE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
