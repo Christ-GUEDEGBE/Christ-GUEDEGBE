@@ -13,7 +13,7 @@
 In data science, there are:
 
 - **Languages** : SQL (PostgreSQL, MySQL), Python (Pandas, NumPy, Matplotlib) 
-- **Tools** : Power BI, Excel, Jupyter Notebook, Google Looker Studio  
+- **Tools** : Power BI, Excel, Jupyter Notebook, Docker
 - **Version Control** : Git, GitHub
 
 In energy engineering and industrial processes:
