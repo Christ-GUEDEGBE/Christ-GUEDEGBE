@@ -4,16 +4,15 @@
 
 ## 🙋‍♀️ About Me
 
-- I’m currently learning data analysis and working on projects in SQL, Python, and Power BI.
-- I'm currently a student, and preparing for my graduating defense.
-- My sector at university is energy engineering, but i’m transitioning into data science.
+- I'm currently a freelance data analyst, but also a student, and preparing for my graduating defense.
+- My sector at university is energy engineering and industrial processes.
 - I love exploring AI tools and using them to enhance my skills.
 
 ## 🚀 Skills  
 In data science, there are:
 
 - **Languages** : SQL (PostgreSQL, MySQL), Python (Pandas, NumPy, Matplotlib) 
-- **Tools** : Power BI, Excel, Jupyter Notebook, Docker
+- **Tools** : Power BI, Excel, Jupyter Notebook, Docker,dbt, airflow
 - **Version Control** : Git, GitHub
 
 In energy engineering and industrial processes:
