@@ -1,3 +1,4 @@
+![pepe](pepe.jpg)
 
 # 👋 Hi, i'm Christ GUEDEGBE.
 📊 I'm an aspiring Data Analyst | Passionate about Data & AI | Student in energy engineering and industrial processes.
