@@ -24,9 +24,9 @@ In energy engineering and industrial processes:
 
 **Linkedin** : [Linkedin](https://www.linkedin.com/in/christ-guedegbe-6b3216341/)
 
-**Email** : [divinguedegbegmail.com](divinguedegbegmail.com)
+**Email** : [My_email.com](divinguedegbegmail.com)
 
-**Portfolio** : my-portfolio.com
+**Portfolio** :  [My_portfolio](https://portfolio-77rrunue8-christ-guedegbes-projects.vercel.app)
 
 
 
